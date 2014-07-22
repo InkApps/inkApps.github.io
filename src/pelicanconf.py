@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'CkEsc'
 SITENAME = u'InkApps'
-SITEURL = 'inkapps.github.io'
+SITEURL = 'http://inkapps.github.io'
 
 TIMEZONE = 'Europe/Moscow'
 
