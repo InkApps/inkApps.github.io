@@ -10,7 +10,8 @@ TIMEZONE = 'Europe/Moscow'
 
 DEFAULT_LANG = u'ru'
 
-OUTPUT_PATH= '../'
+OUTPUT_PATH = '../'
+THEME = 'theme/html5-dopetrope'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
